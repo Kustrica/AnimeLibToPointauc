@@ -1,0 +1,29 @@
+{
+  "extDescription": {
+    "message": "Xuất danh sách anime sang Pointauc JSON/CSV"
+  },
+  "btnJson": {
+    "message": "JSON"
+  },
+  "btnCsv": {
+    "message": "CSV"
+  },
+  "btnMainTitle": {
+    "message": "Xuất sang Pointauc"
+  },
+  "msgNotFound": {
+    "message": "Không tìm thấy tiêu đề. Cuộn xuống danh sách!"
+  },
+  "msgCopied": {
+    "message": "Đã sao chép CSV vào khay nhớ tạm!"
+  },
+  "msgError": {
+    "message": "Lỗi sao chép"
+  },
+  "extensionName": {
+    "message": "AnimeLib to Pointauc"
+  },
+  "extensionDescription": {
+    "message": "Xuất danh sách anime sang Pointauc JSON/CSV"
+  }
+}

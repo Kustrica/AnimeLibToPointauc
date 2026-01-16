@@ -1,0 +1,29 @@
+{
+  "extDescription": {
+    "message": "Exportar lista de animes para Pointauc JSON/CSV"
+  },
+  "btnJson": {
+    "message": "JSON"
+  },
+  "btnCsv": {
+    "message": "CSV"
+  },
+  "btnMainTitle": {
+    "message": "Exportar para Pointauc"
+  },
+  "msgNotFound": {
+    "message": "Títulos não encontrados. Role a lista para baixo!"
+  },
+  "msgCopied": {
+    "message": "CSV copiado para a área de transferência!"
+  },
+  "msgError": {
+    "message": "Erro ao copiar"
+  },
+  "extensionName": {
+    "message": "AnimeLib to Pointauc"
+  },
+  "extensionDescription": {
+    "message": "Exportar lista de animes para Pointauc JSON/CSV"
+  }
+}

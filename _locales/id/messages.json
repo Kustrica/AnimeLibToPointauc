@@ -1,0 +1,29 @@
+{
+  "extDescription": {
+    "message": "Ekspor daftar anime ke Pointauc JSON/CSV"
+  },
+  "btnJson": {
+    "message": "JSON"
+  },
+  "btnCsv": {
+    "message": "CSV"
+  },
+  "btnMainTitle": {
+    "message": "Ekspor ke Pointauc"
+  },
+  "msgNotFound": {
+    "message": "Judul tidak ditemukan. Gulir ke bawah daftar!"
+  },
+  "msgCopied": {
+    "message": "CSV disalin ke papan klip!"
+  },
+  "msgError": {
+    "message": "Kesalahan penyalinan"
+  },
+  "extensionName": {
+    "message": "AnimeLib to Pointauc"
+  },
+  "extensionDescription": {
+    "message": "Ekspor daftar anime ke Pointauc JSON/CSV"
+  }
+}

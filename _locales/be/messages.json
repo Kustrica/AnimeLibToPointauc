@@ -1,0 +1,11 @@
+{
+  "extensionName": { "message": "AnimeLib to Pointauc" },
+  "extDescription": { "message": "Экспарт спісу анімэ ў Pointauc JSON/CSV" },
+  "extensionDescription": { "message": "Экспарт спісу анімэ ў Pointauc JSON/CSV" },
+  "btnJson": { "message": "JSON" },
+  "btnCsv": { "message": "CSV" },
+  "btnMainTitle": { "message": "Экспарт у Pointauc" },
+  "msgNotFound": { "message": "Тайтлы не знойдзены. Пракруціце спіс уніз!" },
+  "msgCopied": { "message": "CSV скапіяваны ў буфер абмену!" },
+  "msgError": { "message": "Памылка капіявання" }
+}

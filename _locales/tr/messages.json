@@ -1,0 +1,29 @@
+{
+  "extDescription": {
+    "message": "Anime listesini Pointauc JSON/CSV olarak dışa aktar"
+  },
+  "btnJson": {
+    "message": "JSON"
+  },
+  "btnCsv": {
+    "message": "CSV"
+  },
+  "btnMainTitle": {
+    "message": "Pointauc'a Aktar"
+  },
+  "msgNotFound": {
+    "message": "Başlıklar bulunamadı. Listeyi aşağı kaydırın!"
+  },
+  "msgCopied": {
+    "message": "CSV panoya kopyalandı!"
+  },
+  "msgError": {
+    "message": "Kopyalama hatası"
+  },
+  "extensionName": {
+    "message": "AnimeLib to Pointauc"
+  },
+  "extensionDescription": {
+    "message": "Anime listesini Pointauc JSON/CSV olarak dışa aktar"
+  }
+}

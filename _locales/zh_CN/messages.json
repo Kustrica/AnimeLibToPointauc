@@ -1,0 +1,29 @@
+{
+  "extDescription": {
+    "message": "将动漫列表导出为 Pointauc JSON/CSV"
+  },
+  "btnJson": {
+    "message": "JSON"
+  },
+  "btnCsv": {
+    "message": "CSV"
+  },
+  "btnMainTitle": {
+    "message": "导出到 Pointauc"
+  },
+  "msgNotFound": {
+    "message": "未找到标题。请向下滚动列表！"
+  },
+  "msgCopied": {
+    "message": "CSV 已复制到剪贴板！"
+  },
+  "msgError": {
+    "message": "复制错误"
+  },
+  "extensionName": {
+    "message": "AnimeLib to Pointauc"
+  },
+  "extensionDescription": {
+    "message": "将动漫列表导出为 Pointauc JSON/CSV"
+  }
+}

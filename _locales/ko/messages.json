@@ -1,0 +1,29 @@
+{
+  "extDescription": {
+    "message": "애니메이션 목록을 Pointauc JSON/CSV로 내보내기"
+  },
+  "btnJson": {
+    "message": "JSON"
+  },
+  "btnCsv": {
+    "message": "CSV"
+  },
+  "btnMainTitle": {
+    "message": "Pointauc로 내보내기"
+  },
+  "msgNotFound": {
+    "message": "제목을 찾을 수 없습니다. 목록을 아래로 스크롤하세요!"
+  },
+  "msgCopied": {
+    "message": "CSV가 클립보드에 복사되었습니다!"
+  },
+  "msgError": {
+    "message": "복사 오류"
+  },
+  "extensionName": {
+    "message": "AnimeLib to Pointauc"
+  },
+  "extensionDescription": {
+    "message": "애니메이션 목록을 Pointauc JSON/CSV로 내보내기"
+  }
+}
