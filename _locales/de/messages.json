@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "Anime-Liste als Pointauc JSON/CSV exportieren"
+  },
+  "optionsTitle": {
+    "message": "Einstellungen"
+  },
+  "settingsTitle": {
+    "message": "Einstellungen"
   }
 }

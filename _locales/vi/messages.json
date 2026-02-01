@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "Xuất danh sách anime sang Pointauc JSON/CSV"
+  },
+  "optionsTitle": {
+    "message": "Cài đặt"
+  },
+  "settingsTitle": {
+    "message": "Cài đặt"
   }
 }

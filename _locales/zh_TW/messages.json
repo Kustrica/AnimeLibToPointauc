@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "將動漫列表導出為 Pointauc JSON/CSV"
+  },
+  "optionsTitle": {
+    "message": "設定"
+  },
+  "settingsTitle": {
+    "message": "設定"
   }
 }

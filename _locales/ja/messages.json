@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "アニメリストを Pointauc JSON/CSV にエクスポート"
+  },
+  "optionsTitle": {
+    "message": "設定"
+  },
+  "settingsTitle": {
+    "message": "設定"
   }
 }

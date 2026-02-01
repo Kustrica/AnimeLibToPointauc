@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "Anime listesini Pointauc JSON/CSV olarak dışa aktar"
+  },
+  "optionsTitle": {
+    "message": "Ayarlar"
+  },
+  "settingsTitle": {
+    "message": "Ayarlar"
   }
 }

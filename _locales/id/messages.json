@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "Ekspor daftar anime ke Pointauc JSON/CSV"
+  },
+  "optionsTitle": {
+    "message": "Pengaturan"
+  },
+  "settingsTitle": {
+    "message": "Pengaturan"
   }
 }

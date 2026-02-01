@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "تصدير قائمة الأنمي إلى Pointauc JSON/CSV"
+  },
+  "optionsTitle": {
+    "message": "الإعدادات"
+  },
+  "settingsTitle": {
+    "message": "الإعدادات"
   }
 }

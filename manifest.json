@@ -2,11 +2,22 @@
   "manifest_version": 3,
   "name": "__MSG_extensionName__",
   "version": "1.0.0",
-  "author": "Kustrica (Telegram: @Kustrica)",
+  "author": "Kustrica (Telegram: @kustric)",
   "description": "__MSG_extensionDescription__",
   "default_locale": "ru",
   "permissions": ["clipboardWrite"],
-  "homepage_url": "https://t.me/Kustrica",
+  "homepage_url": "https://t.me/kustric",
+  "action": {
+    "default_title": "AnimeLib to Pointauc",
+    "default_icon": "icon/main-64.png"
+  },
+  "icons": {
+    "64": "icon/main-64.png"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
   "browser_specific_settings": {
     "gecko": {
       "id": "animelibtopointauc@kustrica.addon",

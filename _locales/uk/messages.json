@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "Експорт списку аніме в Pointauc JSON/CSV"
+  },
+  "optionsTitle": {
+    "message": "Налаштування"
+  },
+  "settingsTitle": {
+    "message": "Налаштування"
   }
 }

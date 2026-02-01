@@ -25,5 +25,11 @@
   },
   "extensionDescription": {
     "message": "애니메이션 목록을 Pointauc JSON/CSV로 내보내기"
+  },
+  "optionsTitle": {
+    "message": "설정"
+  },
+  "settingsTitle": {
+    "message": "설정"
   }
 }
