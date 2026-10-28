@@ -1,0 +1,13 @@
+AnimeLib to Pointauc – AMO screenshot captions (upload in this order)
+
+01_export_buttons.png
+Export buttons appear right on your AnimeLib list: copy titles as CSV, download a JSON file, or open the Pointauc wheel.
+
+02_mangalib_ranobelib.png
+Works across the Lib network – MangaLib, RanobeLib, HentaiLib and SlashLib – with buttons in each site's colors.
+
+03_import_into_pointauc.png
+Import into Pointauc in three steps: open Archive, click Import, then drop the file or paste the list and apply.
+
+04_pointauc_wheel.png
+Your whole list lands on the Pointauc wheel, ready to spin.
