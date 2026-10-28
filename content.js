@@ -33,7 +33,7 @@
         const wheelBtn = document.createElement('button');
         wheelBtn.id = 'al-pointauc-wheel-btn';
         wheelBtn.className = 'al-pointauc-btn al-pointauc-sub-btn';
-        wheelBtn.onclick = () => window.open('https://test.pointauc.com', '_blank');
+        wheelBtn.onclick = () => window.open('https://pointauc.com/', '_blank');
 
         const wheelIconUrl = chrome.runtime.getURL('icon/wheel-256.png');
         const wheelImg = document.createElement('img');
